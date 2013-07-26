@@ -1,0 +1,17 @@
+## YAML Template.
+---
+name: dotapick
+main: dotapick.Dotapick
+version: 1.00
+
+commands:
+   pick:
+      description: This is a demo command.
+      usage: 
+      permission: 
+      permission-message:
+   repick:
+      description: This is a demo command.
+      usage: 
+      permission: 
+      permission-message: 
